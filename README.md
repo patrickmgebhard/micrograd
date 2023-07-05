@@ -1,0 +1,2 @@
+# micrograd
+programming micrograd
